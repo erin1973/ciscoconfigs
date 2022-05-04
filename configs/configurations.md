@@ -26,7 +26,6 @@ R1(config)#
 
 ```
 R1# clock set 18:00:00 May 3 2022
-
 ```
 
 #### Privileged exec password
